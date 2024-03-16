@@ -1,11 +1,13 @@
 ### Hi there 👋 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhwaaRj&show_icons=true&theme=shadow_blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunhwaaRj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/sunhwaaRj/github-readme-stats">
   <img align="center" style="height:180" src="https://github-readme-stats.vercel.app/api?username=sunhwaaRj&show_icons=true&theme=shadow_blue">
+</a>
+<a href="https://github.com/sunhwaaRj/github-readme-stats">
+  <img align="center" style="height:180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhwaaRj&layout=compact&theme=shadow_blue">
 </a>
 
 <!--
