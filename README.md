@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhwaaRj&show_icons=true&theme=shadow_blue)
 
+"https://github-readme-stats.vercel.app/api/top-langs/?username=sunhwaaRj&layout=compact&theme=shadow_blue&hide_border=true"
+
 <!--
 **sunhwaaRj/sunhwaaRj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
